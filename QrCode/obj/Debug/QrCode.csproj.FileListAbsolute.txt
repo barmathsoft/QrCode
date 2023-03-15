@@ -1,0 +1,12 @@
+C:\Users\onder.bar\source\repos\QrCode\QrCode\bin\Debug\QrCode.exe.config
+C:\Users\onder.bar\source\repos\QrCode\QrCode\bin\Debug\QrCode.exe
+C:\Users\onder.bar\source\repos\QrCode\QrCode\bin\Debug\QrCode.pdb
+C:\Users\onder.bar\source\repos\QrCode\QrCode\obj\Debug\QrCode.csproj.AssemblyReference.cache
+C:\Users\onder.bar\source\repos\QrCode\QrCode\obj\Debug\QrCode.Properties.Resources.resources
+C:\Users\onder.bar\source\repos\QrCode\QrCode\obj\Debug\QrCode.csproj.GenerateResource.cache
+C:\Users\onder.bar\source\repos\QrCode\QrCode\obj\Debug\QrCode.csproj.CoreCompileInputs.cache
+C:\Users\onder.bar\source\repos\QrCode\QrCode\obj\Debug\QrCode.csproj.CopyComplete
+C:\Users\onder.bar\source\repos\QrCode\QrCode\obj\Debug\QrCode.exe
+C:\Users\onder.bar\source\repos\QrCode\QrCode\obj\Debug\QrCode.pdb
+C:\Users\onder.bar\source\repos\QrCode\QrCode\bin\Debug\QRCoder.dll
+C:\Users\onder.bar\source\repos\QrCode\QrCode\obj\Debug\QrCode.QrForm.resources
